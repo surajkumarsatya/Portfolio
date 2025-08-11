@@ -6,35 +6,35 @@ const Projects = () => {
       link: "https://ntflx-project.vercel.app/",
       technologies: ['React', 'Tailwind CSS', 'React Router', 'API', 'Responsive'],
       description: "This project is a Netflix Clone built using React and Tailwind CSS. It leverages the TMDB API to dynamically fetch and display real movie and TV show data. The application is fully responsive, ensuring a seamless user experience across all devices.",
-      imgUrl: "src/assets/Netflix.png"
+      imgUrl: "/src/assets/Netflix.png"
     },
     {
       title: "KARTAVYA",
       link: "https://kartavvya.vercel.app/",
       technologies: ['React', 'TAILWIND CSS', 'React Router', 'Responsive'],
       description: "Kartavy, a fully functional multi page website built with React and Tailwind CSS. It incorporates robust user authentication using Clerk and handles form submissions through Email.js. The website is designed to be fully responsive.",
-      imgUrl: "src/assets/Kartavya.png"
+      imgUrl: "/src/assets/Kartavya.png"
     },
     {
       title: "GROCIFY",
       link: "https://grocify-project.vercel.app/",
       technologies: ['React', 'TAILWIND CSS', 'React Router', 'Responsive'],
       description: "This project is a modern, responsive multi-page e-commerce website named 'Grocify.' It's built with React and styled using Tailwind CSS for a sleek, utility-first design. The application showcases a strong understanding of front-end development.",
-      imgUrl: "src/assets/Grocify.png"
+      imgUrl: "/src/assets/Grocify.png"
     },
     {
       title: "APPLE VISION PRO CLONE",
       link: "https://apple-vision-proo.vercel.app/",
       technologies: ['HTML', 'Tailwind CSS', 'Responsive'],
       description: "Built Apple Vision Pro website landing page clone using HTML and Tailwind CSS. It's mobile-friendly and visually appealing with optimized image and masonry layout.",
-      imgUrl: "src/assets/AppleVisonPro.png"
+      imgUrl: "/src/assets/AppleVisonPro.png"
     },
     {
       title: "CLEANVOICE LANDING PAGE CLONE",
       link: "https://clean-voice.vercel.app/",
       technologies: ['HTML', 'CSS', 'JavaScript', 'Responsive'],
       description: "Created a Cleanvoice website landing page clone using HTML, CSS and JavaScript. It's responsive. This project showcase my understanding of HTML and CSS.",
-      imgUrl: "src/assets/Cleanvoice.png"
+      imgUrl: "/src/assets/Cleanvoice.png"
     },
   ];
 
