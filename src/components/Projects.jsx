@@ -70,7 +70,7 @@ const Projects = () => {
             </div>
             <div className="flex-shrink-0">
               <img
-                className="object-contain mt-2 lg:mt-0 w-72 h-44 lg:w-86 lg:h-43 hover:scale-105
+                className="object-contain mt-2 lg:mt-0 w-full h-44 lg:w-86 lg:h-43 hover:scale-105
                 transform transition-all duration-300"
                 src={project.imgUrl}
                 alt={project.title}

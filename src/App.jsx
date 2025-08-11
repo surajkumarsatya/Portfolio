@@ -8,8 +8,8 @@ import Skills from "./components/Skills";
 
 function App() {
   return (
-    <section className="bg-teal-600 p-10 lg:p-20 flex flex-col items-center justify-center">
-      <div className="max-w-screen-xl m-auto">
+    <section className="bg-teal-600 px-5 py-5 lg:px-0 lg:py-0 flex flex-col items-center justify-center">
+      <div className="max-w-screen-xl m-auto lg:px-20 lg:py-20 pb-20">
         <div className="p-5 lg:px-20 border bg-white">
         <Header />
         <Hero />
