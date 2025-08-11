@@ -9,7 +9,7 @@ const Hero = () => {
       </div>
       <p className="text-black text-md lg:text-lg">Front-end Developer | QA Tester</p>
       <div className="text-md lg:text-lg text-gray-600">
-        <p>Haryana, India | <a href="https://surajkumarsatya.netlify.app/" target="_blank" className="">surajkumarsatya</a> | <a href="mailto:surajmail.799@gmail.com" className="">surajmail.799@gmail.com</a> | <a href="tel:+91 9873322730 " class="link">+91 9873322730</a></p>
+        <p>Haryana, India | <a href="https://surajkumarsatya.netlify.app/" target="_blank" className="">surajkumarsatya</a> | <a href="mailto:surajmail.799@gmail.com" className="text-black">surajmail.799@gmail.com</a> | <a href="tel:+91 9873322730 " class="link text-black">+91 9873322730</a></p>
       </div>
       <p className="text-gray-700 text-md lg:text-lg">
         Creative, meticulous and highly motivated front-end developer with a goal to make engaging and practical user experiences. Very passionate about accessibility, aesthetics and UI.
